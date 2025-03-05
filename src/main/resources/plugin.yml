@@ -1,0 +1,24 @@
+main: de.ericzones.projectsystem.ProjectSystem
+name: ProjectSystem
+version: 1.0
+author: EricZones
+api-version: '1.21'
+commands:
+  msg:
+    aliases: [r, reply]
+  socialspy:
+  commandspy:
+  ping:
+  invsee:
+  enderchest:
+    aliases: [ec]
+  ontime:
+    aliases: [onlinetime, playtime]
+  info:
+  check:
+  vanish:
+    aliases: [v]
+  ban:
+    aliases: [unban, checkban]
+  warn:
+  maintenance:
