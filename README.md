@@ -36,6 +36,7 @@ ProjectSystem is a Minecraft plugin which is applicable to survival multiplayer 
 ### Requirements
 - Java Development Kit (JDK) 21 or higher
 - Gradle
+- Minecraft Paper 1.21 server
 
 ### Build process
 ```bash
