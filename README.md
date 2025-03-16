@@ -70,9 +70,6 @@ ProjectSystem is a Minecraft plugin which is applicable to survival multiplayer 
 
 - Some commands can be executed with permissions only
 
-## Contributors
-- **EricZones** - Developer
-
 ## Purpose
 The plugin was created for a vanilla multiplayer minecraft project.
 It was originally developed in 2023 without git.
